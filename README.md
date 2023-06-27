@@ -56,3 +56,7 @@ The initial plan is:
 5. Check other similar systems and extend the engine?
 
 Also, the Javascript is pretty outdated, grabbed from a personal project from around 2012. I'd like to improve it but it is not the main goal of the project.
+
+Copyright 2019–2023 12787326 Canada Inc.
+
+Licensed under the AGPLv3: https://opensource.org/licenses/agpl-3.0
